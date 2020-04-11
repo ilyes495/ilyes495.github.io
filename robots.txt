@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilyes495.com/sitemap.xml
+Host: https://ilyes495.com
