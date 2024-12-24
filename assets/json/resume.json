@@ -24,13 +24,49 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Morris Lab (Prof. Quaid Morris) MSKCC and WCM, New York, NY",
+      "position": "DOCTORAL RESEARCHER",
+      "url": "",
+      "startDate": "2021-07-01",
+      "endDate": "Present",
+      "summary": "• Develop a machine learning-based recalibration model that can accurately predict the cellular binding sites of RNA-Binding Proteins (RBPs) given only their intrinsic binding preferences.\n• Reanalyze all available CLIP data to identify biases and experimental artifacts in the dataset. We found evidence that as much as a third of the eCLIP data associated with ENCODE RBPs does not measure direct binding.\n• Investigate various machine learning techniques such as AlphFold, for representing proteins to predict the binding preferences of RNA-binding Proteins (RBPs) from their amino-acid sequences.\n• Analyze large genomic data to understand the role of MSI2-RBP in AML, this include running various bioinformatics pipelines to detect binding sites from HyperTRIBE assay and measure translation efficiency from RiboSTAMP assay.\n• Collaborate with wet-lab teams to address their bioinformatics needs, prepared presentations to communicate the findings and results.\n• Supervise undergraduate interns and graduate rotation students in CLIP-seq data analysis, applying machine learning techniques, and utilizing HPC clusters.\n• Organize regular lab-meeting for a whole year, including scheduling presentations, developing automated scripts to collect and distribute presentation feedback.",
       "highlights": ["Relativity"]
+    },
+    {
+      "name": "Computational Biology Lab (Assoc. Prof. Hilal Kazan & Prof. Cesim Erten), Antalya, Turkey",
+      "position": "RESEARCH ASSISTANT",
+      "url": "",
+      "startDate": "2018-10-01",
+      "endDate": "2020-07-01",
+      "summary": "• Developed a novel algorithm for identifying overlapping cancer driver modules using multi-omics data from The Cancer Genome Atlas (TCGA).\n• Performed the classification and survival analysis for a novel approach named MEXCOWalk for identifying cancer driver modules.\n• Co-supervised a final year undergraduate student’s independent study project, providing support and guidance on various aspects including experimental design, data analysis, and report writing.",
+      "highlights": []
+    },
+    {
+      "name": "Morris Lab at University of Toronto (Prof. Quaid Morris), Toronto, Canada",
+      "position": "VISITING RESEARCHER",
+      "url": "",
+      "startDate": "2019-06-01",
+      "endDate": "2019-09-01",
+      "summary": "• Designed and implemented a multitask deep learning model for predicting in vivo binding sites for RNA-binding proteins (RBPs) using in vitro binding preferences learned from paired data. This model utilizes advanced machine learning techniques to accurately predict binding site locations within the genome, which can provide valuable insights into the regulatory mechanisms of RBPs and their role in various biological processes.",
+      "highlights": []
+    },
+    {
+      "name": "Machine Learning Lab (Assoc. Prof. Hilal Kazan), Antalya, Turkey",
+      "position": "SENIOR PROJECT",
+      "url": "",
+      "startDate": "2016-10-01",
+      "endDate": "2017-08-01",
+      "summary": "• Participated in the Neuroblastoma data Integration challenge organized by the CAMDA consortium, with the goal of improving the prediction of clinical outcome, survival time, or disease mechanisms through the integration of multiple data types, as compared to the original expression only study conducted by the FDA SEQC.\n• Integrated various types of data such as gene expression and aCGH data to improve the prediction of survival time.",
+      "highlights": []
+    },
+    {
+      "name": "Digital Media and Data Reconstruction Lab (Prof. Lizhuang Ma), Shanghai, China",
+      "position": "SUMMER INTERNSHIP",
+      "url": "",
+      "startDate": "2016-06-01",
+      "endDate": "2016-09-01",
+      "summary": "• Learned the principles of machine and deep learning methods, with a particular focus on convolutional neural networks.\n• Built a face recognition system using the GoogleNet neural network, which achieved an accuracy of 94% on the LFW (Labelled Faces in the Wild) dataset.",
+      "highlights": []
     }
   ],
 
