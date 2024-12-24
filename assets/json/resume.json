@@ -29,8 +29,8 @@
       "url": "",
       "startDate": "2021-07-01",
       "endDate": "Present",
-      "summary": "• Develop a machine learning-based recalibration model that can accurately predict the cellular binding sites of RNA-Binding Proteins (RBPs) given only their intrinsic binding preferences.\n\n• Reanalyze all available CLIP data to identify biases and experimental artifacts in the dataset. We found evidence that as much as a third of the eCLIP data associated with ENCODE RBPs does not measure direct binding.\n\n• Investigate various machine learning techniques such as AlphFold, for representing proteins to predict the binding preferences of RNA-binding Proteins (RBPs) from their amino-acid sequences.\n\n• Analyze large genomic data to understand the role of MSI2-RBP in AML, this include running various bioinformatics pipelines to detect binding sites from HyperTRIBE assay and measure translation efficiency from RiboSTAMP assay.\n\n• Collaborate with wet-lab teams to address their bioinformatics needs, prepared presentations to communicate the findings and results.\n\n• Supervise undergraduate interns and graduate rotation students in CLIP-seq data analysis, applying machine learning techniques, and utilizing HPC clusters.\n\n• Organize regular lab-meeting for a whole year, including scheduling presentations, developing automated scripts to collect and distribute presentation feedback.",
-      "highlights": ["Relativity"]
+      "summary": "• Develop a machine learning-based recalibration model that can accurately predict the cellular binding sites of RNA-Binding Proteins (RBPs) given only their intrinsic binding preferences.<br>• Reanalyze all available CLIP data to identify biases and experimental artifacts in the dataset. We found evidence that as much as a third of the eCLIP data associated with ENCODE RBPs does not measure direct binding.<br>• Investigate various machine learning techniques such as AlphFold, for representing proteins to predict the binding preferences of RNA-binding Proteins (RBPs) from their amino-acid sequences.<br>• Analyze large genomic data to understand the role of MSI2-RBP in AML, this include running various bioinformatics pipelines to detect binding sites from HyperTRIBE assay and measure translation efficiency from RiboSTAMP assay.<br>• Collaborate with wet-lab teams to address their bioinformatics needs, prepared presentations to communicate the findings and results.<br>• Supervise undergraduate interns and graduate rotation students in CLIP-seq data analysis, applying machine learning techniques, and utilizing HPC clusters.<br>• Organize regular lab-meeting for a whole year, including scheduling presentations, developing automated scripts to collect and distribute presentation feedback.",
+      "highlights": ["RNA-Binding Proteins", "Machine Learning", "CLIP-seq", "AML"]
     },
     {
       "name": "Computational Biology Lab (Assoc. Prof. Hilal Kazan & Prof. Cesim Erten), Antalya, Turkey",
@@ -38,36 +38,36 @@
       "url": "",
       "startDate": "2018-10-01",
       "endDate": "2020-07-01",
-      "summary": "• Developed a novel algorithm for identifying overlapping cancer driver modules using multi-omics data from The Cancer Genome Atlas (TCGA).\n\n• Performed the classification and survival analysis for a novel approach named MEXCOWalk for identifying cancer driver modules.\n\n• Co-supervised a final year undergraduate student’s independent study project, providing support and guidance on various aspects including experimental design, data analysis, and report writing.",
-      "highlights": []
-    },
-    {
+      "summary": "• Developed a novel algorithm for identifying overlapping cancer driver modules using multi-omics data from The Cancer Genome Atlas (TCGA).<br>• Performed the classification and survival analysis for a novel approach named MEXCOWalk for identifying cancer driver modules.<br>• Co-supervised a final year undergraduate student’s independent study project, providing support and guidance on various aspects including experimental design, data analysis, and report writing.",
+      "highlights": ["Cancer Driver Genes"]
+        },
+        {
       "name": "Morris Lab at University of Toronto (Prof. Quaid Morris), Toronto, Canada",
       "position": "VISITING RESEARCHER",
       "url": "",
       "startDate": "2019-06-01",
       "endDate": "2019-09-01",
-      "summary": "• Designed and implemented a multitask deep learning model for predicting in vivo binding sites for RNA-binding proteins (RBPs) using in vitro binding preferences learned from paired data.\n\n• This model utilizes advanced machine learning techniques to accurately predict binding site locations within the genome, which can provide valuable insights into the regulatory mechanisms of RBPs and their role in various biological processes.",
+      "summary": "• Designed and implemented a multitask deep learning model for predicting in vivo binding sites for RNA-binding proteins (RBPs) using in vitro binding preferences learned from paired data.<br>• This model utilizes advanced machine learning techniques to accurately predict binding site locations within the genome, which can provide valuable insights into the regulatory mechanisms of RBPs and their role in various biological processes.",
       "highlights": []
-    },
-    {
+        },
+        {
       "name": "Machine Learning Lab (Assoc. Prof. Hilal Kazan), Antalya, Turkey",
       "position": "SENIOR PROJECT",
       "url": "",
       "startDate": "2016-10-01",
       "endDate": "2017-08-01",
-      "summary": "• Participated in the Neuroblastoma data Integration challenge organized by the CAMDA consortium, with the goal of improving the prediction of clinical outcome, survival time, or disease mechanisms through the integration of multiple data types, as compared to the original expression only study conducted by the FDA SEQC.\n\n• Integrated various types of data such as gene expression and aCGH data to improve the prediction of survival time.",
+      "summary": "• Participated in the Neuroblastoma data Integration challenge organized by the CAMDA consortium, with the goal of improving the prediction of clinical outcome, survival time, or disease mechanisms through the integration of multiple data types, as compared to the original expression only study conducted by the FDA SEQC.<br>• Integrated various types of data such as gene expression and aCGH data to improve the prediction of survival time.",
       "highlights": []
-    },
-    {
+        },
+        {
       "name": "Digital Media and Data Reconstruction Lab (Prof. Lizhuang Ma), Shanghai, China",
       "position": "SUMMER INTERNSHIP",
       "url": "",
       "startDate": "2016-06-01",
       "endDate": "2016-09-01",
-      "summary": "• Learned the principles of machine and deep learning methods, with a particular focus on convolutional neural networks.\n\n• Built a face recognition system using the GoogleNet neural network, which achieved an accuracy of 94% on the LFW (Labelled Faces in the Wild) dataset.",
+      "summary": "• Learned the principles of machine and deep learning methods, with a particular focus on convolutional neural networks.<br>• Built a face recognition system using the GoogleNet neural network, which achieved an accuracy of 94% on the LFW (Labelled Faces in the Wild) dataset.",
       "highlights": []
-    }
+        }
   ],
 
   "education": [
