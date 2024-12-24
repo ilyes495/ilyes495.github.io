@@ -2,96 +2,117 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ilyes Baali
+    - name: Label
+      value: phD Candidate in Computational Biology
+    - name: Email
+      value: ilb4001@med.cornell.edu
+    - name: Phone
+      value: (646) 236-4417
+    - name: URL
+      value: https://ilyes495.github.io/
+    - name: Location
+      value: New York, NY 10065, US
+    - name: Twitter
+      value: https://x.com/ilyes_baali07
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computational Biology
+      institution: Weill Cornell Medicine and Memorial Sloan Kettering Cancer Center, New York, NY
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Genomics
+        - Bioinformatics
+        - Biostatistics
+        - Molecular Biology and Cell Biology
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: DOCTORAL RESEARCHER
+      institution: Morris Lab (Prof. Quaid Morris) MSKCC and WCM, New York, NY
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Develop a machine learning-based recalibration model that can accurately predict the cellular binding sites of RNA-Binding Proteins (RBPs) given only their intrinsic binding preferences.
+        - Reanalyze all available CLIP data to identify biases and experimental artifacts in the dataset. We found evidence that as much as a third of the eCLIP data associated with ENCODE RBPs does not measure direct binding.
+        - Investigate various machine learning techniques such as AlphFold, for representing proteins to predict the binding preferences of RNA-binding Proteins (RBPs) from their amino-acid sequences.
+        - Analyze large genomic data to understand the role of MSI2-RBP in AML, this include running various bioinformatics pipelines to detect binding sites from HyperTRIBE assay and measure translation efficiency from RiboSTAMP assay.
+        - Collaborate with wet-lab teams to address their bioinformatics needs, prepared presentations to communicate the findings and results.
+        - Supervise undergraduate interns and graduate rotation students in CLIP-seq data analysis, applying machine learning techniques, and utilizing HPC clusters.
+        - Organize regular lab-meeting for a whole year, including scheduling presentations, developing automated scripts to collect and distribute presentation feedback.
+    - title: RESEARCH ASSISTANT
+      institution: Computational Biology Lab (Assoc. Prof. Hilal Kazan & Prof. Cesim Erten), Antalya, Turkey
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed a novel algorithm for identifying overlapping cancer driver modules using multi-omics data from The Cancer Genome Atlas (TCGA).
+        - Performed the classification and survival analysis for a novel approach named MEXCOWalk for identifying cancer driver modules.
+        - Co-supervised a final year undergraduate student’s independent study project, providing support and guidance on various aspects including experimental design, data analysis, and report writing.
+    - title: VISITING RESEARCHER
+      institution: Morris Lab at University of Toronto (Prof. Quaid Morris), Toronto, Canada
+      year: 2019
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Designed and implemented a multitask deep learning model for predicting in vivo binding sites for RNA-binding proteins (RBPs) using in vitro binding preferences learned from paired data. This model utilizes advanced machine learning techniques to accurately predict binding site locations within the genome, which can provide valuable insights into the regulatory mechanisms of RBPs and their role in various biological processes.
+    - title: SENIOR PROJECT
+      institution: Machine Learning Lab (Assoc. Prof. Hilal Kazan), Antalya, Turkey
+      year: 2016 - 2017
+      description:
+        - Participated in the Neuroblastoma data Integration challenge organized by the CAMDA consortium, with the goal of improving the prediction of clinical outcome, survival time, or disease mechanisms through the integration of multiple data types, as compared to the original expression only study conducted by the FDA SEQC.
+        - Integrated various types of data such as gene expression and aCGH data to improve the prediction of survival time.
+    - title: SUMMER INTERNSHIP
+      institution: Digital Media and Data Reconstruction Lab (Prof. Lizhuang Ma), Shanghai, China
+      year: 2016
+      description:
+        - Learned the principles of machine and deep learning methods, with a particular focus on convolutional neural networks.
+        - Built a face recognition system using the GoogleNet neural network, which achieved an accuracy of 94% on the LFW (Labelled Faces in the Wild) dataset.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - PhD Fellowship: Followship for the whole duration of the PhD. The PhD Fellowship is a prestigious award that aims to support the most talented students in the field of computational biology.
 
-- title: Academic Interests
+- title: Publications
+  type: time_table
+  contents:
+    - title: DriveWays
+      description: DriveWays is a project that aims to predict the impact of mutations on RNA splicing. The project is based on the analysis of RNA-seq data and the development of machine learning models.
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Biology
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Perform various differential analyses, Analyze CLIP and RNA-editing based assays, Apply machine learning techniques to functional genomic data
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
+        - Python
+        - R
+        - Bash
+        - JavaScript
+        - SQL
+        - LaTeX
 
-- title: Other Interests
+- title: Languages
+  type: nested_list
+  contents:
+    - title: Arabic
+      items:
+        - Native speaker
+    - title: French
+      items:
+        - Good
+    - title: English
+      items:
+        - Fluent
+    - title: Turkish
+      items:
+        - Basic
+
+- title: Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Artificial Intelligence
+    - Computational Biology
