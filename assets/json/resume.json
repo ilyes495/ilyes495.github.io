@@ -134,12 +134,55 @@
   
   "publications": [
     {
-      "name": "DriveWays",
-      "publisher": "",
-      "releaseDate": "",
+      "name": "DriveWays: a method for identifying possibly overlapping driver pathways in cancer",
+      "publisher": "Nature Publishing Group UK London",
+      "releaseDate": "2020",
+      "url": "https://www.nature.com/articles/s41598-020-78852-8",
+      "summary": "DriveWays is a seed-and-extend based heuristic that identifies overlapping cancer driver modules from the graph built from the IntAct PPI network.",
+      "authors": ["Ilyes Baali", "Cesim Erten", "Hilal Kazan"],
+      "journal": "Scientific Reports",
+      "volume": "10",
+      "number": "1",
+      "pages": "21971",
+      "code": "https://github.com/abu-compbio/DriveWays"
+    },
+    {
+      "name": "MEXCOwalk: mutual exclusion and coverage based random walk to identify cancer modules",
+      "publisher": "Oxford University Press",
+      "releaseDate": "2020",
+      "url": "https://academic.oup.com/bioinformatics/article/36/3/872/5552148",
+      "summary": "MEXCOwalk is a method for identifying cancer modules based on mutual exclusion and coverage using random walk algorithms.",
+      "authors": ["Rafsan Ahmed", "Ilyes Baali", "Cesim Erten", "Evis Hoxha", "Hilal Kazan"],
+      "journal": "Bioinformatics",
+      "volume": "36",
+      "number": "3",
+      "pages": "872-879",
+      "code": "https://github.com/ilyes495/MEXCOwalk"
+    },
+    {
+      "name": "Predicting clinical outcomes in neuroblastoma with genomic data integration",
+      "publisher": "BioMed Central",
+      "releaseDate": "2018",
+      "url": "https://biologydirect.biomedcentral.com/articles/10.1186/s13062-018-0223-8",
+      "summary": "This study integrates genomic data to predict clinical outcomes in neuroblastoma.",
+      "authors": ["Ilyes Baali", "D Alp Emre Acar", "Tunde W Aderinwale", "Saber HafezQorani", "Hilal Kazan"],
+      "journal": "Biology Direct",
+      "volume": "13",
+      "pages": "1-14"
+    },
+    {
+      "name": "Machine learning for wearable IoT-based applications: A survey",
+      "publisher": "Transactions on Emerging Telecommunications Technologies",
+      "releaseDate": "2022",
       "url": "",
-      "summary": "DriveWays is a seed-and-extend based heuristic that identifies overlapping cancer driver modules from the graph built from the IntAct PPI network."
+      "summary": "A comprehensive survey on the application of machine learning techniques in wearable IoT-based applications.",
+      "authors": ["Fadi Al-Turjman", "Ilyes Baali"],
+      "journal": "Transactions on Emerging Telecommunications Technologies",
+      "volume": "33",
+      "number": "8",
+      "pages": "e3635"
     }
+    
   ],
   "skills": [
     {
