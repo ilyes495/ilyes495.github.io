@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a long talk presentation on DriveWays at ISMB 2021
+I gave an oral presentation on DriveWays at ISMB 2021
