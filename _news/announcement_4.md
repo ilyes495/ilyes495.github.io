@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Present my work on RBP Recalibration model at ISMB 2025
+Gave a long talk about my work on RBP Recalibration model at ISMB 2025
