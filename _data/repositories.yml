@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - sailor-nextflow-pipeline
   - ilyes495/hypertribe_pipeline
   - ilyes495/MEXCOwalk
   - abu-compbio/DriveWays
+  
