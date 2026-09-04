@@ -454,11 +454,11 @@
   ],
   "projects": [
     {
-      "name": "Drug Repurposing Detective — Y Combinator Bio × AI Hackathon, San Francisco",
+      "name": "SSTR2 biosensor design pipeline — Y Combinator Bio × AI Hackathon, San Francisco",
       "startDate": "2026-03-01",
       "endDate": "2026-03-01",
-      "url": "",
-      "summary": "Claude-based agent that autonomously queries Open Targets, ChEMBL, cBioPortal, FDA FAERS, ClinicalTrials.gov, PubMed, and Tamarind Bio docking through a tool-use loop to rank FDA-approved drugs for repurposing with an evidence dossier.",
+      "url": "https://github.com/hetpatel-11/YC-Bio-Hack",
+      "summary": "Automated protein-engineering pipeline that designs an SSTR2 GPCR biosensor: a genetic algorithm co-evolves circularly permuted GFP insertion sites and linker sequences, ESMFold and AlphaFold2-multimer predictions score folding quality and receptor–ligand interface, and a Claude agent shortlists diverse candidates. Includes a Next.js dashboard with 3D structure visualization.",
       "highlights": []
     },
     {

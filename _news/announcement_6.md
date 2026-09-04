@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Built the Drug Repurposing Detective, an AI agent for drug repurposing, at the Y Combinator Bio × AI Hackathon in San Francisco
+Built an automated pipeline for designing SSTR2 GPCR biosensors at the Y Combinator Bio × AI Hackathon in San Francisco
