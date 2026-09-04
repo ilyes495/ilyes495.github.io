@@ -41,13 +41,7 @@
       "startDate": "2021-07-01",
       "endDate": "Present",
       "summary": "• Built an RBP-agnostic CLIP model to test whether eCLIP binding reflects an RBP's intrinsic sequence specificity.<br>• Reanalyzed 240+ ENCODE eCLIP experiments with this model and found that only 32% reflect intrinsic sequence specificity.<br>• Showed that non-specific in vivo signal concentrates in purine/G-rich, exon-junction-localized RBPs and reflects condensate (stress-granule, nuclear-speckle) localization rather than sequence.<br>• Developed an intrinsic-specificity score that flags non-sequence-specific eCLIP binding without requiring in vitro data.<br>• Benchmarked protein language model (ESM) and AlphaFold-derived representations for predicting RBP binding specificity, outperforming sequence- and structure-based baselines.<br>• Built and deployed Nextflow pipelines on SLURM HPC clusters for RNA-seq, iCLIP/eCLIP, HyperTRIBE, and Ribo-seq/RiboSTAMP data, processing multi-terabyte genomic datasets.<br>• Designed a 10x Visium spatial transcriptomics pipeline to characterize tumor microenvironment composition, enabling cell-type deconvolution and ligand–receptor interaction mapping.<br>• Demonstrated that the RBP MSI2 promotes translation of a leukemic stem-cell program in AML through a cooperative RBP module (co-first-author manuscript in review).<br>• Developed a method to quantify translation efficiency from RiboSTAMP editing data.<br>• Supervised 4 undergraduate interns and graduate rotation students in CLIP-seq analysis, ML model fine-tuning, and HPC usage.<br>• Communicated results to mixed computational, wet-lab, and clinical audiences; organized a year-long lab-meeting series with automated feedback collection.",
-      "highlights": [
-        "RNA-binding proteins",
-        "CLIP-seq",
-        "Machine learning",
-        "Protein language models",
-        "AML"
-      ]
+      "highlights": ["RNA-binding proteins", "CLIP-seq", "Machine learning", "Protein language models", "AML"]
     },
     {
       "name": "Morris Lab, University of Toronto",
@@ -67,10 +61,7 @@
       "startDate": "2018-10-01",
       "endDate": "2020-07-01",
       "summary": "• Developed DriveWays, a graph-based algorithm for identifying overlapping cancer driver modules from TCGA multi-omics data (first-author publication in Scientific Reports).<br>• Performed classification and survival analyses for MEXCOwalk, a random-walk method for cancer module discovery (Bioinformatics).<br>• Co-supervised a final-year undergraduate independent study project, guiding experimental design, data analysis, and report writing.",
-      "highlights": [
-        "Cancer driver modules",
-        "Multi-omics"
-      ]
+      "highlights": ["Cancer driver modules", "Multi-omics"]
     },
     {
       "name": "Machine Learning Lab (Assoc. Prof. Hilal Kazan), Antalya Bilim University",
@@ -131,9 +122,7 @@
       "startDate": "",
       "endDate": "",
       "score": "3.65",
-      "courses": [
-        "Graduated with high honors, ranked 3rd in class; best senior project award. One first-author publication."
-      ]
+      "courses": ["Graduated with high honors, ranked 3rd in class; best senior project award. One first-author publication."]
     },
     {
       "institution": "Antalya Bilim University",
@@ -144,9 +133,7 @@
       "startDate": "",
       "endDate": "",
       "score": "3.65",
-      "courses": [
-        "Graduated with high honors, ranked 2nd in class. Three publications."
-      ]
+      "courses": ["Graduated with high honors, ranked 2nd in class. Three publications."]
     }
   ],
   "skills": [
@@ -184,40 +171,19 @@
       "name": "Pipelines & HPC",
       "level": "Expert",
       "icon": "fa-solid fa-server",
-      "keywords": [
-        "Nextflow",
-        "Snakemake",
-        "SLURM cluster computing",
-        "Docker",
-        "git",
-        "Reproducible research practices"
-      ]
+      "keywords": ["Nextflow", "Snakemake", "SLURM cluster computing", "Docker", "git", "Reproducible research practices"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (10+ years)",
-        "R",
-        "C/C++",
-        "Java",
-        "MATLAB",
-        "SQL (basic)"
-      ]
+      "keywords": ["Python (10+ years)", "R", "C/C++", "Java", "MATLAB", "SQL (basic)"]
     },
     {
       "name": "Data & visualization",
       "level": "Expert",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "pandas",
-        "NumPy",
-        "scikit-learn",
-        "matplotlib/seaborn",
-        "ggplot2",
-        "Publication-quality figures"
-      ]
+      "keywords": ["pandas", "NumPy", "scikit-learn", "matplotlib/seaborn", "ggplot2", "Publication-quality figures"]
     }
   ],
   "publications": [
