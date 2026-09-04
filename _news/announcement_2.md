@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster on RBP reclibration framework at ISMB 2022
+Presented a poster on RBP recalibration framework at ISMB 2022
